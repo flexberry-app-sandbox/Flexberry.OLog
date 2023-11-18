@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-o-log-журнал-учета-e",
+  "editForm": "i-i-s-o-log-журнал-учета-e",
+  "external": false,
+  "caption": "Журнал учета",
+  "name": "IISOLogЖурналУчетаL",
+  "className": "ЖурналУчетаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-log-журнал-учета",
+      "modelProjection": "ЖурналУчетаL"
+    }
+  ]
+}

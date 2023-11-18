@@ -1,0 +1,38 @@
+﻿{
+  "name": "IISOLogРукОтдЛог",
+  "modelName": "i-i-s-o-log-рук-отд-лог",
+  "className": "РукОтдЛог",
+  "nameSpace": "IIS.OLog",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "персонал",
+      "relatedTo": "i-i-s-o-log-персонал",
+      "inverse": null
+    }
+  ],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "РукОтдЛогE",
+      "modelName": "i-i-s-o-log-рук-отд-лог",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "РукОтдЛогL",
+      "modelName": "i-i-s-o-log-рук-отд-лог",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

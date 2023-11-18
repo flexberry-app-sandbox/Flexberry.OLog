@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-o-log-контрагент-e",
+  "editForm": "i-i-s-o-log-контрагент-e",
+  "external": false,
+  "caption": "Контрагент",
+  "name": "IISOLogКонтрагентL",
+  "className": "КонтрагентL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-log-контрагент",
+      "modelProjection": "КонтрагентL"
+    }
+  ]
+}

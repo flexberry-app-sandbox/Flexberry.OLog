@@ -1,0 +1,106 @@
+﻿{
+  "applicationCaption": "O log",
+  "applicationTitle": "O log",
+  "items": [
+    {
+      "link": null,
+      "menuName": "o-log",
+      "caption": "OLog",
+      "title": "OLog",
+      "children": [
+        {
+          "link": "i-i-s-o-log-персонал-l",
+          "menuName": null,
+          "caption": "Персонал",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-o-log-договор-l",
+          "menuName": null,
+          "caption": "Договор",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-o-log-трансп-ср-l",
+          "menuName": null,
+          "caption": "Трансп ср",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-o-log-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-o-log-организация-l",
+          "menuName": null,
+          "caption": "Организация",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-o-log-тч-раб-вод-авто-l",
+          "menuName": null,
+          "caption": "Тч раб вод авто",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-o-log-рук-отд-лог-l",
+          "menuName": null,
+          "caption": "Рук отд лог",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-o-log-тч-движ-г-с-м-l",
+          "menuName": null,
+          "caption": "Тч движ ГСМ",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-o-log-путевой-лист-l",
+          "menuName": null,
+          "caption": "Путевой лист",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-o-log-т-ч-задан-вод-l",
+          "menuName": null,
+          "caption": "Т ч задан вод",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-o-log-контрагент-l",
+          "menuName": null,
+          "caption": "Контрагент",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-o-log-т-ч-водитель-l",
+          "menuName": null,
+          "caption": "Т ч водитель",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-o-log-журнал-учета-l",
+          "menuName": null,
+          "caption": "Журнал учета",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

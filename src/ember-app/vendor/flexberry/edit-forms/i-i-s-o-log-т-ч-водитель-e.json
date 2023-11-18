@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Т ч водитель",
+  "name": "IISOLogТЧВодительE",
+  "className": "ТЧВодительE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-log-т-ч-водитель",
+      "modelProjection": "ТЧВодительE"
+    }
+  ]
+}

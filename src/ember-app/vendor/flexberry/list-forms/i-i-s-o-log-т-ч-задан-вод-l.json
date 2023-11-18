@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-o-log-т-ч-задан-вод-e",
+  "editForm": "i-i-s-o-log-т-ч-задан-вод-e",
+  "external": false,
+  "caption": "Т ч задан вод",
+  "name": "IISOLogТЧЗаданВодL",
+  "className": "ТЧЗаданВодL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-log-т-ч-задан-вод",
+      "modelProjection": "ТЧЗаданВодL"
+    }
+  ]
+}

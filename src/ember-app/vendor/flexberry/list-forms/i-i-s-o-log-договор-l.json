@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-o-log-договор-e",
+  "editForm": "i-i-s-o-log-договор-e",
+  "external": false,
+  "caption": "Договор",
+  "name": "IISOLogДоговорL",
+  "className": "ДоговорL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-log-договор",
+      "modelProjection": "ДоговорL"
+    }
+  ]
+}

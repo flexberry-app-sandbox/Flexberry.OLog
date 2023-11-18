@@ -1,0 +1,1 @@
+docker-compose -p olog up -d

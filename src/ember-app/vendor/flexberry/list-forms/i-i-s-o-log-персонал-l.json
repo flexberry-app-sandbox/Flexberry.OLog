@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-o-log-персонал-e",
+  "editForm": "i-i-s-o-log-персонал-e",
+  "external": false,
+  "caption": "Персонал",
+  "name": "IISOLogПерсоналL",
+  "className": "ПерсоналL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-o-log-персонал",
+      "modelProjection": "ПерсоналL"
+    }
+  ]
+}
