@@ -294,7 +294,6 @@ namespace IIS.OLog
         public virtual void Отправить()
         {
             // *** Start programmer edit section *** (Договор.Отправить method implementation)
-
             return;
             // *** End programmer edit section *** (Договор.Отправить method implementation)
         }
@@ -306,7 +305,6 @@ namespace IIS.OLog
         public virtual void Распечатать()
         {
             // *** Start programmer edit section *** (Договор.Распечатать method implementation)
-
             return;
             // *** End programmer edit section *** (Договор.Распечатать method implementation)
         }

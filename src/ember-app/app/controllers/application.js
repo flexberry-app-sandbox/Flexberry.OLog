@@ -28,65 +28,67 @@ export default Controller.extend({
             link: 'i-i-s-o-log-персонал-l',
             caption: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-персонал-l.caption'),
             title: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-персонал-l.title'),
-            icon: 'suitcase',
+            icon: 'folder',
             children: null
           }, {
             link: 'i-i-s-o-log-договор-l',
             caption: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-договор-l.caption'),
             title: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-договор-l.title'),
-            icon: 'phone',
+            icon: 'suitcase',
             children: null
           }, {
             link: 'i-i-s-o-log-трансп-ср-l',
             caption: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-трансп-ср-l.caption'),
             title: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-трансп-ср-l.title'),
+            icon: 'paperclip',
             children: null
           }, {
             link: 'i-i-s-o-log-должности-l',
             caption: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-должности-l.caption'),
             title: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-должности-l.title'),
-            icon: 'briefcase',
+            icon: 'address card',
             children: null
           }, {
             link: 'i-i-s-o-log-организация-l',
             caption: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-организация-l.caption'),
             title: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-организация-l.title'),
-            icon: 'address card',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-o-log-тч-раб-вод-авто-l',
             caption: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-тч-раб-вод-авто-l.caption'),
             title: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-тч-раб-вод-авто-l.title'),
-            icon: 'file',
+            icon: 'folder',
             children: null
           }, {
             link: 'i-i-s-o-log-рук-отд-лог-l',
             caption: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-рук-отд-лог-l.caption'),
             title: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-рук-отд-лог-l.title'),
+            icon: 'tasks',
             children: null
           }, {
             link: 'i-i-s-o-log-тч-движ-г-с-м-l',
             caption: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-тч-движ-г-с-м-l.caption'),
             title: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-тч-движ-г-с-м-l.title'),
-            icon: 'tasks',
+            icon: 'paperclip',
             children: null
           }, {
             link: 'i-i-s-o-log-путевой-лист-l',
             caption: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-путевой-лист-l.caption'),
             title: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-путевой-лист-l.title'),
-            icon: 'calendar',
+            icon: 'list',
             children: null
           }, {
             link: 'i-i-s-o-log-т-ч-задан-вод-l',
             caption: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-т-ч-задан-вод-l.caption'),
             title: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-т-ч-задан-вод-l.title'),
-            icon: 'chart bar',
+            icon: 'book',
             children: null
           }, {
             link: 'i-i-s-o-log-контрагент-l',
             caption: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-контрагент-l.caption'),
             title: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-контрагент-l.title'),
-            icon: 'chart line',
+            icon: 'list',
             children: null
           }, {
             link: 'i-i-s-o-log-т-ч-водитель-l',
@@ -98,7 +100,7 @@ export default Controller.extend({
             link: 'i-i-s-o-log-журнал-учета-l',
             caption: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-журнал-учета-l.caption'),
             title: i18n.t('forms.application.sitemap.o-log.i-i-s-o-log-журнал-учета-l.title'),
-            icon: 'book',
+            icon: 'list',
             children: null
           }]
         }
